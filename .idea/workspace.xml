@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98420207-f488-4c56-a060-2c1020492597" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="98420207-f488-4c56-a060-2c1020492597" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="143" column="68" selection-start-line="143" selection-start-column="68" selection-end-line="143" selection-end-column="68" />
+            <state relative-caret-position="501">
+              <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -172,7 +167,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10260223" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1413,8 +1407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="143" column="68" selection-start-line="143" selection-start-column="68" selection-end-line="143" selection-end-column="68" />
+        <state relative-caret-position="501">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
