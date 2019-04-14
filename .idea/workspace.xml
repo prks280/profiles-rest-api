@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98420207-f488-4c56-a060-2c1020492597" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +26,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="144" selection-start-line="144" selection-end-line="144" />
+            <state relative-caret-position="379">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#316#1" />
               </folding>
             </state>
           </provider>
@@ -79,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/urls.py" />
         <option value="D:/chargesavvy-backend-live/account/serializers.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/models.py" />
@@ -88,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/permissions.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" />
+        <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py" />
       </list>
     </option>
   </component>
@@ -105,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,6 +129,11 @@
             <path>
               <item name="profiles-rest-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="profiles-rest-api" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="profiles-rest-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="profiles-rest-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -128,13 +147,12 @@
               <item name="profiles-rest-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
-              <item name="profiles_api" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,8 +187,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10260223" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14423792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -255,16 +274,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/models.py___jb_old___" />
-    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1398">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#316#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/chatge/chargesavvy-backend-live/order/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -1409,10 +1418,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        <state relative-caret-position="379">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/chatge/chargesavvy-backend-live/chargesavvy/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#316#1" />
           </folding>
         </state>
       </provider>
